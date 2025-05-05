@@ -59,30 +59,6 @@ The dataset (`FEV-data-Excel.xlsx`) contains the following key attributes:
 2. **For Manufacturers:** Highlight efficiency in marketing, especially for brands with smaller battery capacities.
 3. **Future Work:** Expand analysis to include charging infrastructure and total cost of ownership.
 
-## 📥 How to Use This Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/electric-vehicle-analysis.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scipy jupyter
-   ```
-3. Open the Jupyter Notebook (`Electric_Vehicle_Analysis.ipynb`) to explore the analysis.
-
-## 📹 Project Video
-A 5-minute video explaining the project objectives, methods, and outcomes is available [here](#) (replace with your drive link).
-
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to reach out for questions or collaborations!  
-📧 **Email:** your-email@example.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](#)  
-🐱 **GitHub:** [Your GitHub Profile](#)  
-
----
-
-**Note:** Replace placeholder links (e.g., GitHub repo, video link, email) with your actual project details before uploading.
